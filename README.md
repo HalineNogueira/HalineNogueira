@@ -18,7 +18,21 @@
 
 📫 **Vamos nos conectar?**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HalineNogueira-blue?logo=linkedin)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/haline-nogueira-8b1224bb/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-HalineNogueira-blue?logo=linkedin)]([https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/haline-nogueira-8b1224bb/)
+
+## 🔧 Tecnologias utilizadas:
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white)
+
+
+
+
 
 
 <!--
